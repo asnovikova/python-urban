@@ -19,7 +19,8 @@
 ## Приступая к работе 
 1. Необходимо сделать себе репозиторий используя данный шаблон.  
   ![image](https://user-images.githubusercontent.com/14962819/178701128-479598b3-beda-4a5d-95d4-a169c896c5d9.png)
-1. Далее сделать копию [jupyter notebook](https://colab.research.google.com/drive/1nAtzu1yjnkyxot-Hf6beXxoN3-zN9HZ_) к себе в гугл диск.  
+1. Далее сделать копию [jupyter notebook](https://colab.research.google.com/drive/1nAtzu1yjnkyxot-Hf6beXxoN3-zN9HZ_) к себе в гугл диск.
+1. Установить права доступа к jupyter notebook с возможностью комментирования
   ![image](https://user-images.githubusercontent.com/14962819/178701259-c427b7ea-b145-42a8-84ef-1b5829621d6a.png)
 1. В файле README.md добавить в разделе "О работе"
   - Указать свои ФИО
