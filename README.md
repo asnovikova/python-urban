@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Новикова Алина Сергеевна 
+https://colab.research.google.com/drive/1jvFqOiyuo0qTBaQxQGcBp7KEniDrSdXJ#scrollTo=1Q-LYKCR9326 
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
